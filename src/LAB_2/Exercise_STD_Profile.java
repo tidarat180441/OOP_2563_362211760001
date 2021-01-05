@@ -10,7 +10,8 @@ public class Exercise_STD_Profile {
 
 
 
-        System.out.print("ชื่อ-สกุล: ");
+        System.out.print("ชื่อ-สกุล  : ");
+
         String std_name = scanner.nextLine();
 
 
