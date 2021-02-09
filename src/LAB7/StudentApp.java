@@ -11,8 +11,8 @@ public class StudentApp {
         std1.name = "Tidarat Chairak";
         std1.age = 22;
         std1.major = "MIT";
-        std1.introduce();
 
+        std1.introduce();
         Student std2 = new Student();
         std2.name = "Worawut Chairak";
         std2.age = 17;

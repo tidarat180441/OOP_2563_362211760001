@@ -2,6 +2,7 @@ package LAB_2;
 
 import java.util.Scanner;
 
+
 public class BasicInputDATA {
 
     public static void main(String[] args) {
