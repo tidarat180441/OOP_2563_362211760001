@@ -14,7 +14,7 @@ public class CompanaApp {
         ArrayList<Employee>myemp = new ArrayList<Employee>();
         for (int i = 0; i < num ; i++) {
             // input data to object
-            System.out.println("Please, enter car info "+(i+1)+":");
+            System.out.println("Please, enter employee info "+(i+1)+":");
             Employee e = inputDataobject ();
             myemp.add(e);
         }
