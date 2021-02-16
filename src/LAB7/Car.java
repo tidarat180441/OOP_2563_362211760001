@@ -1,11 +1,19 @@
 package LAB7;
 
 public class Car {
+    // attributes
     private String id;
     private String color;
     private String brand;
 
+    // constructors
     public Car() {
+    }
+
+    public Car(String id, String color, String brand) {
+        this.id = id;
+        this.color = color;
+        this.brand = brand;
     }
 
     public String getId() {
